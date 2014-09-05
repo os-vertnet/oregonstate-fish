@@ -1,0 +1,96 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 892
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-04 ; Times: 2
+	Date: 2014-08-05 ; Times: 5
+	Date: 2014-08-06 ; Times: 2
+	Date: 2014-08-07 ; Times: 1
+	Date: 2014-08-13 ; Times: 4
+	Date: 2014-08-14 ; Times: 2
+	Date: 2014-08-15 ; Times: 3
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-22 ; Times: 11
+	Date: 2014-08-25 ; Times: 3
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 5
+	Date: 2014-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "estado de mexico" ; Times: 5
+	Query: ""enneacanthus chaetodon"" ; Times: 1
+	Query: "Scyliorhinus" ; Times: 1
+	Query: "alopias vulpinus" ; Times: 3
+	Query: "specificepithet:punctatus genus:ictalurus AND (NOT TNHC NOT UF NOT KUI NOT TCWC NOT TU NOT USNM NOT UA NOT CUMV NOT OMNH)" ; Times: 4
+	Query: "mykiss" ; Times: 8
+	Query: "stateprovince:"new york" specificepithet:spiloptera year >= 1960 year <= 1980" ; Times: 1
+	Query: "Sectator ocyurus" ; Times: 4
+	Query: "specificepithet:punctatus genus:ictalurus AND (NOT TNHC NOT UF NOT KUI NOT TCWC NOT TU NOT USNM NOT UA NOT CUMV)" ; Times: 2
+	Query: "specificepithet:punctatus genus:ictalurus AND (NOT TNHC NOT UF NOT KUI NOT TCWC NOT TU NOT USNM NOT UA)" ; Times: 1
+	Query: "elodea year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "genus:ictalurus AND (NOT TNHC NOT UF NOT KUI NOT TCWC)" ; Times: 2
+	Query: "stateprovince:"new york" genus:lota" ; Times: 1
+	Query: "distance(location,geopoint(-0.058592845717697,-1.669921875))<100000" ; Times: 1
+	Query: "genus:ictalurus AND (NOT TNHC NOT UF NOT KUI)" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:rostrata" ; Times: 1
+	Query: "institutioncode:os" ; Times: 1
+	Query: "elodea" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:pseudoharengus genus:alosa year >= 1950 year <= 2014" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 1
+	Query: "papilio" ; Times: 2
+	Query: "stateprovince:"new york" specificepithet:spiloptera year >= 1975 year <= 1980" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 273 download events in this period)
+Total number of records downloaded: 23 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ayacucho" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 149
+Total number of records retrieved from searches: 1331
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 17996
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 149
+Total number of records retrieved from searches: 1331
+Number of download events that retrieved data from the resource: 51
+Total number of records downloaded: 18540
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
