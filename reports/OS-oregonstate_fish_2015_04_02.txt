@@ -1,0 +1,78 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 131
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-21 ; Times: 2
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "azolla" ; Times: 1
+	Query: "antimora type:specimen year <= 2000" ; Times: 1
+	Query: "mirorictus" ; Times: 1
+	Query: "mentodus eubranchus" ; Times: 2
+	Query: "Boreogadus saida" ; Times: 1
+	Query: "institutioncode:os" ; Times: 1
+	Query: "Scutiger" ; Times: 2
+	Query: "Echinorhinus cookei" ; Times: 1
+	Query: "actinopterygii vorax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 298 download events in this period)
+Total number of records downloaded: 8219 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8219
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "tuna year >= 1950 year <= 1970 mappable:1" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 202
+Total number of records retrieved from searches: 3217
+Number of download events that retrieved data from the resource: 11
+Total number of records downloaded: 8494
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 214
+Total number of records retrieved from searches: 3715
+Number of download events that retrieved data from the resource: 72
+Total number of records downloaded: 27127
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
