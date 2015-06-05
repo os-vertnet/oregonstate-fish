@@ -1,0 +1,88 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 115
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 3
+	Date: 2015-05-08 ; Times: 3
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cottus bairdii idaho" ; Times: 1
+	Query: "Catostomus catostomus tissue:1" ; Times: 1
+	Query: "cottus bairdii Idaho" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "cottus beldingii" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "alopias" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "erimystax" ; Times: 1
+	Query: "Trichomycterus rivulatus" ; Times: 1
+	Query: "leiognathus splendens" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "mozinoi" ; Times: 2
+	Query: "thalassoma trilobatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 976 download events in this period)
+Total number of records downloaded: 251 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 235
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Allyn" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 217
+Total number of records retrieved from searches: 3332
+Number of download events that retrieved data from the resource: 17
+Total number of records downloaded: 8745
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 229
+Total number of records retrieved from searches: 3830
+Number of download events that retrieved data from the resource: 78
+Total number of records downloaded: 27378
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
