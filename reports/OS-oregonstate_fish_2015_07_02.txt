@@ -1,0 +1,113 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 138
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: United States ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-10 ; Times: 3
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 2
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-24 ; Times: 5
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-29 ; Times: 2
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "hedwig" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "alphestes afer" ; Times: 1
+	Query: "stateprovince:"Alaska" country:"United States" year >= 1500 year <= 2015 hastypestatus:1 distance(location,geopoint(51.147446544106955,-175.52135467529297))<534677.0749926821" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<51797.83796376453" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "oligoplites refulgens" ; Times: 1
+	Query: "Hendricks stateprovince:"california"" ; Times: 2
+	Query: "Oncorhynchus aguabonita" ; Times: 1
+	Query: "Hemanthias peruanus" ; Times: 1
+	Query: "neoopisthopterus tropicus" ; Times: 1
+	Query: "Oregonichthys crameri" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<68974" ; Times: 1
+	Query: "231310" ; Times: 1
+	Query: "distance(location,geopoint(51.890053935216926,-170.70556640625))<100000" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "catenatus missouri" ; Times: 2
+	Query: "vipera" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "hyporhamphus gilli" ; Times: 1
+	Query: "Hypsoblennius sordidus" ; Times: 1
+	Query: "thalassoma trilobatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1524 download events in this period)
+Total number of records downloaded: 1028 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 952
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-16 ; Times: 6
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "turkey" ; Times: 1
+	Query: "neff" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "country:"United States" genus:ictalurus" ; Times: 1
+	Query: "Kuwait" ; Times: 1
+	Query: "country:"United States" genus:Ictalurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 248
+Total number of records retrieved from searches: 3470
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 9773
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 260
+Total number of records retrieved from searches: 3968
+Number of download events that retrieved data from the resource: 90
+Total number of records downloaded: 28406
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
