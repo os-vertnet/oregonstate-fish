@@ -1,0 +1,78 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 52
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 3
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "15205" ; Times: 1
+	Query: "specificepithet:productus genus:Rhinobatos continent:North America" ; Times: 1
+	Query: "wizard" ; Times: 5
+	Query: "dama.dama" ; Times: 1
+	Query: "wenatchee river" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "pholis ornata" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "Simpson Rd" ; Times: 1
+	Query: "county:&#34;australia&#34;" ; Times: 1
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "pholis schultzi" ; Times: 1
+	Query: "ltl" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 823 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Chile ; Times: 3
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "dama.dama" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+
+
+End of report.
