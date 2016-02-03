@@ -1,0 +1,84 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 64
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 17
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-21 ; Times: 5
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-06 ; Times: 2
+	Date: 2015-11-22 ; Times: 2
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-04 ; Times: 2
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-25 ; Times: 10
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-27 ; Times: 2
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:oblongus genus:Erimyzon stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "wizard" ; Times: 10
+	Query: "Cottus asperrimus" ; Times: 10
+	Query: "johnius dussumieri" ; Times: 1
+	Query: "sciaenidae oman" ; Times: 2
+	Query: "type:specimen (11531)" ; Times: 1
+	Query: "crenidens oman" ; Times: 1
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "Tetrapturus angustirostris" ; Times: 2
+	Query: "10993" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "plotosus oman" ; Times: 4
+	Query: "argyrops filamentosus" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus continent:North America" ; Times: 1
+	Query: "alopias" ; Times: 2
+	Query: "falciformis" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "locality:San Benedicto Island" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 751 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
