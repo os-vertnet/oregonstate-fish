@@ -1,0 +1,88 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 216
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Russia ; Times: 6
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-05 ; Times: 6
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-08 ; Times: 15
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Artedius corallinus" ; Times: 1
+	Query: "Sebastes rastrelliger" ; Times: 1
+	Query: "Atractoscion nobilis" ; Times: 1
+	Query: "Sebastes diploproa" ; Times: 1
+	Query: "Sebastes miniatus" ; Times: 1
+	Query: "Sebastes rosaceus" ; Times: 1
+	Query: "Acipenser oxyrhynchus" ; Times: 1
+	Query: "narcine entemedor" ; Times: 1
+	Query: "amia calva" ; Times: 3
+	Query: "Jordania zonope" ; Times: 1
+	Query: "Chirolophis nugator" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "macropinna microstoma" ; Times: 2
+	Query: "Caulolatilus princeps" ; Times: 1
+	Query: "Semicossyphus pulcher" ; Times: 1
+	Query: "Sebastes nebulosus" ; Times: 1
+	Query: "Hyperprosopon ellipticum" ; Times: 1
+	Query: "Sebastes carnatus" ; Times: 1
+	Query: "institutioncode:OS" ; Times: 1
+	Query: "Ronquilus jordani" ; Times: 1
+	Query: "Leiocottus hirundo" ; Times: 1
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "Paralabrax maculatofasciatus" ; Times: 1
+	Query: "Sebastes caurinus" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "Rhinobatos lentiginosus" ; Times: 3
+	Query: "Squatina californica" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 512 download events in this period)
+Total number of records downloaded: 296
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:actinopterygii mappable:1 stateprovince:Washington" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Acipenser oxyrhynchus" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Idaho" ; Times: 2
+	Query: "Saltator" ; Times: 1
+	Query: "amia calva" ; Times: 1
+
+
+End of report.
