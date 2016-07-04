@@ -1,0 +1,154 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 597
+Number of records retrieved in searches: 2647
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 576
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 536
+	Date: 2016-06-24 ; Times: 10
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-21 ; Times: 6
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 5
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 7
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 166
+	Query: "specificepithet:scituliceps genus:Synodus" ; Times: 1
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 27
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 9
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 6
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "bison bison   " ; Times: 6
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 5
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 20
+	Query: "Stomatorhinus ivindoensis" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:media genus:Sphyrna" ; Times: 2
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "specificepithet:serrula genus:Pristigenys" ; Times: 1
+	Query: "specificepithet:peruviana genus:Selene" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "specificepithet:californica genus:Squatina" ; Times: 2
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "wizard" ; Times: 7
+	Query: "specificepithet:mysticetus genus:Cetengraulis" ; Times: 3
+	Query: "paraplagusia bilineata" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 9
+	Query: "specificepithet:venenosa genus:Mycteroperca" ; Times: 9
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "flavescens iowa" ; Times: 1
+	Query: "genus:Mola" ; Times: 2
+	Query: "14299" ; Times: 1
+	Query: "Snyder AND Prince Island" ; Times: 1
+	Query: "specificepithet:horrens genus:Prionotus" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "13164" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 54
+	Query: "prochilodus rubrotaeniatus" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "14557" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "Cooper AND Island AND California" ; Times: 1
+	Query: "San Martin Island AND Mexico NOT LVB NOT Burt NOT Willett NOT LAmb NOT Tevis" ; Times: 1
+	Query: "specificepithet:lineatus genus:Euthynnus" ; Times: 3
+	Query: "Gigantactis" ; Times: 1
+	Query: "institutioncode:os" ; Times: 2
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 8
+	Query: "11899" ; Times: 3
+	Query: "schomburgki" ; Times: 1
+	Query: "specificepithet:pinnimaculatus genus:Bagre" ; Times: 2
+	Query: "specificepithet:macrolepidota genus:Anchovia" ; Times: 1
+	Query: "institutioncode:OS mappable:1" ; Times: 1
+	Query: "specificepithet:ditropis genus:Lamna" ; Times: 1
+	Query: "specificepithet:opercularis genus:Polydactylus" ; Times: 2
+	Query: "Dama dama 1" ; Times: 2
+	Query: "genus:cottus locality:clackamas River county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:pollachius genus:Pollachius" ; Times: 7
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "specificepithet:affinis genus:Euthynnus" ; Times: 2
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 2
+	Query: "Santa Catalina Island AND 1858" ; Times: 1
+	Query: "specificepithet:analogus genus:Epinephelus" ; Times: 1
+	Query: "neoclinus blanchardi" ; Times: 1
+	Query: "specificepithet:compressa genus:Anchoa" ; Times: 3
+	Query: "Catalina Island AND 1890" ; Times: 1
+	Query: "Santa Catalina Island AND 1862" ; Times: 1
+	Query: "Snyder AND Prince Island NOT Canada" ; Times: 1
+	Query: "specificepithet:pacificus genus:Tylosurus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1052 download events in this period)
+Total number of records downloaded: 663
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
