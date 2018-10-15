@@ -1,0 +1,166 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 362
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 10
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 3
+	Country: United States ; Times: 73
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 6
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-05 ; Times: 22
+	Date: 2018-02-21 ; Times: 16
+	Date: 2018-02-20 ; Times: 11
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 9
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-27 ; Times: 11
+	Date: 2018-02-26 ; Times: 4
+	Date: 2018-02-28 ; Times: 6
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "leptochilichthys" ; Times: 1
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "USNM 403536" ; Times: 1
+	Query: "Rhinogobius brunneus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 4
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "catalognumber:666 institutioncode:OS" ; Times: 1
+	Query: "rhinobatos lentiginosus" ; Times: 2
+	Query: "Dicky" ; Times: 1
+	Query: "huso huso" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "catalognumber:6660 institutioncode:OS" ; Times: 1
+	Query: "USNM 402905" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 2
+	Query: "order:Cyprinodontiformes hastissue:1" ; Times: 4
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "stylephorus chordatus" ; Times: 1
+	Query: "bathylaco nigricans" ; Times: 1
+	Query: "OS 18777" ; Times: 1
+	Query: "OS 18776" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 6
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "wizard" ; Times: 2
+	Query: "OS 18779" ; Times: 1
+	Query: "OS 18778" ; Times: 1
+	Query: "OS 18325" ; Times: 1
+	Query: "distance(location,geopoint(43.4467760705001,-95.505815338))&lt;6363" ; Times: 4
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "OS 18369" ; Times: 1
+	Query: "synodus indicus" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 2
+	Query: "anderson 1896" ; Times: 1
+	Query: "OS 18775" ; Times: 1
+	Query: "county:&#34;colombia&#34;" ; Times: 1
+	Query: "recordedby:f. powell" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "&#34;Micropterus dolomieu&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 4
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Acanthurus guttatus" ; Times: 2
+	Query: "OS 18795" ; Times: 1
+	Query: "OS 18794" ; Times: 2
+	Query: "institutioncode:os" ; Times: 2
+	Query: "scientificname:&#34;paraliparis pectoralis&#34;" ; Times: 1
+	Query: "Crossocheilus oblongus" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "(ott)" ; Times: 1
+	Query: "19848" ; Times: 1
+	Query: "scientificname:&#34;crystallichthys cyclospilus&#34;" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "order:Myctophiformes hastissue:1" ; Times: 1
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "Dama dama mappable:1" ; Times: 3
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "Parauchenoglanis" ; Times: 2
+	Query: "mirorictus" ; Times: 1
+	Query: "OS 18317" ; Times: 1
+	Query: "Rhinogobius brunneus" ; Times: 1
+	Query: "OS 18726" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "scientificname:&#34;cottus hubbsi&#34;" ; Times: 1
+	Query: "Awaous flavus mappable:1" ; Times: 1
+	Query: "OS 18312" ; Times: 2
+	Query: "OS 18311" ; Times: 1
+	Query: "OS 18310" ; Times: 1
+	Query: "psammogobius biocellatus" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "OS 18319" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1892 download events in this period)
+Total number of records downloaded: 132
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Plagioscion squamosissimus" ; Times: 1
+	Query: "family:Apteronotidae continent:South America mappable:1" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+
+End of report.
