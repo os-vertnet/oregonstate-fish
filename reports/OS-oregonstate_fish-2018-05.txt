@@ -1,0 +1,92 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 614
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-04 ; Times: 4
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 5
+	Date: 2018-05-30 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 4
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-10 ; Times: 6
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "distance(location,geopoint(43.3984914053276,-95.1502012035874))&lt;35967" ; Times: 1
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "&#34;Labeo calbasu&#34;" ; Times: 1
+	Query: "minnesota v" ; Times: 1
+	Query: "genus:Acaronia" ; Times: 1
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "distance(location,geopoint(43.4467760705001,-95.505815338))&lt;6363" ; Times: 2
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 2
+	Query: "18002" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "county:&#34;Australia&#34;" ; Times: 1
+	Query: "genus:Pterophyllum" ; Times: 1
+	Query: "locality:McKay" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "distance(location,geopoint(43.6598489215647,-95.6791910181292))&lt;33610" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "institutioncode:OS" ; Times: 4
+	Query: "Labeo molybdinus" ; Times: 1
+	Query: "scientificname:(Scaphirhynchus platorynchus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "specificepithet:efasciatus family:Cichlidae" ; Times: 1
+	Query: "gbifdatasetid:b8ed9b7c-5b73-4e6d-a6e1-b0911a09f947" ; Times: 1
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "specificepithet:mirificus family:Cichlidae" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "scientificname:(Acipenser oxyrinchus OR Acipenser oxyrynchus OR Acipenser oxyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "specificepithet:mirificus genus:Mesonauta family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1178 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;tabasco&#34; country:&#34;Mexico&#34; continent:America year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "percina" ; Times: 1
+	Query: "morone americana" ; Times: 1
+
+
+End of report.
