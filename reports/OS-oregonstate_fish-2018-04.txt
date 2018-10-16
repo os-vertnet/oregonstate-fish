@@ -1,0 +1,158 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 4803
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 52
+	Country: China ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-12 ; Times: 11
+	Date: 2018-04-03 ; Times: 9
+	Date: 2018-04-02 ; Times: 6
+	Date: 2018-04-16 ; Times: 5
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 12
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-19 ; Times: 4
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Prosopium williamsoni) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:4361 institutioncode:OS" ; Times: 1
+	Query: "genus:Xyrauchen" ; Times: 1
+	Query: "genus:Acaronia family:Cichlidae" ; Times: 1
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:4360 institutioncode:OS" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "rhinichthys osculus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Mylossoma duriventre" ; Times: 2
+	Query: "Tinca tinca" ; Times: 1
+	Query: "&#34;Clupea pallasii&#34; hastissue:1" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "genus:Catostomus recordedby:George" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "Sebastes hopkinsi" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1976 year &lt;= 1976" ; Times: 2
+	Query: "Sebastes helvomaculatus" ; Times: 3
+	Query: "Hyphessobrycon copelandi" ; Times: 1
+	Query: "Channa marulius" ; Times: 1
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Salvelinus confluentus) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus clarkii mappable:1" ; Times: 14
+	Query: "Alosa fallax mappable:1" ; Times: 1
+	Query: "institutioncode:os" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 1
+	Query: "catalognumber:11351 institutioncode:OS" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "&#34;Oncorhynchus mykiss&#34; hastissue:1" ; Times: 1
+	Query: "scientificname:(Petromyzon marinus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus tahoensis) country:United States mappable:1" ; Times: 1
+	Query: "Coptodon zillii" ; Times: 1
+	Query: "sebastes helvomaculatus" ; Times: 2
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 2
+	Query: "genus:Catostomus year &gt;= 1967 year &lt;= 1967" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 2
+	Query: "Anguilla rostrata stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 2
+	Query: "Hiodon hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1359 download events in this period)
+Total number of records downloaded: 1330
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-24 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Heptapteridae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "opisthonema libertate" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "Channa marulius" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Coptodon zillii" ; Times: 1
+	Query: "Pterygoplichthys multiradiatus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "vntype:specimen (Hiodontidae) hastissue:1" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+
+
+End of report.
