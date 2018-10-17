@@ -1,0 +1,135 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 584
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 33
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 53
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 16
+	Country: Germany ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-04 ; Times: 9
+	Date: 2018-09-03 ; Times: 3
+	Date: 2018-09-05 ; Times: 6
+	Date: 2018-09-13 ; Times: 17
+	Date: 2018-09-24 ; Times: 16
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-06 ; Times: 8
+	Date: 2018-09-14 ; Times: 11
+	Date: 2018-09-17 ; Times: 23
+	Date: 2018-09-16 ; Times: 7
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "OS 18799" ; Times: 1
+	Query: "genus:Lycodes institutioncode:OS hastissue:1" ; Times: 1
+	Query: "saccopharynx" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "elassodiscus" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Sebastes flavidus" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "&#34;little river&#34; gasterosteus" ; Times: 1
+	Query: "OS 19546" ; Times: 2
+	Query: "OS 18209" ; Times: 1
+	Query: "OS 19540" ; Times: 2
+	Query: "OS 19543" ; Times: 2
+	Query: "OS 18772" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "OS 18779" ; Times: 1
+	Query: "OS 18778" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "OS 18269" ; Times: 1
+	Query: "OS 19391" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "OS 18792" ; Times: 2
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "genus:gasterosteus little river" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 2
+	Query: "genus:tomeurus hastissue:1" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "SFC 10" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "Liparis mucosus" ; Times: 1
+	Query: "OS 18747" ; Times: 1
+	Query: "gasterosteus california &#34;big lagoon&#34; vntype:specimen" ; Times: 1
+	Query: "OS 19548" ; Times: 2
+	Query: "genus:Lycodapus institutioncode:OS" ; Times: 1
+	Query: "genus:gasterosteus &#34;little river&#34;" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "barathronus" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "Icichthys lockingtoni" ; Times: 1
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "Hemichromis fasciatus" ; Times: 1
+	Query: "OS 19572" ; Times: 3
+	Query: "OS 18310" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;Humboldt&#34;" ; Times: 13
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "OS 19724" ; Times: 2
+	Query: "OS 18311" ; Times: 1
+	Query: "gasterosteus california &#34;little river&#34; vntype:specimen" ; Times: 1
+	Query: "OS 19701" ; Times: 2
+	Query: "locality:Corinto" ; Times: 2
+	Query: "Sebastes serranoides" ; Times: 1
+	Query: "OS 19665" ; Times: 2
+	Query: "OS 19398" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 846 download events in this period)
+Total number of records downloaded: 84
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
