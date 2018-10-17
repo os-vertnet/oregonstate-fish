@@ -1,0 +1,125 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 238
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 43
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Japan ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 6
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-27 ; Times: 12
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-22 ; Times: 7
+	Date: 2018-08-21 ; Times: 5
+	Date: 2018-08-20 ; Times: 8
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:d. p. wallace" ; Times: 1
+	Query: "Aphyosemion" ; Times: 2
+	Query: "megalepis" ; Times: 1
+	Query: "recordedby:Brian Hubbs year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Leporinus trifasciatus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "Pygocentrus nattereri Peru" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "Canthidermis rotundatus" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 2
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 4
+	Query: "hepsetus lineata" ; Times: 1
+	Query: "county:&#34;humboldt&#34; year &gt;= 1996 year &lt;= 1996" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 2
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "genus:tomeurus hastissue:1" ; Times: 2
+	Query: "serrasalmus sanchezi" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "15862" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Agassiz 1872" ; Times: 1
+	Query: "vimba vimba" ; Times: 1
+	Query: "Normanichthys" ; Times: 3
+	Query: "confusus" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 3
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "Frierson" ; Times: 1
+	Query: "os 350" ; Times: 1
+	Query: "cetomimidae" ; Times: 2
+	Query: "Malapterurus oguensis" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 3
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "Canthidermis rotundatus mappable:1" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1416 download events in this period)
+Total number of records downloaded: 156
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Peru ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "prochilodus nigricans" ; Times: 2
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "Prochilodus nigricans" ; Times: 1
+	Query: "Leporinus trifasciatus" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "Leporinus friderici" ; Times: 2
+
+
+End of report.
