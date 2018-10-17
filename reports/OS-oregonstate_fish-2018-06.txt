@@ -1,0 +1,117 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 790
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 73
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 3
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-05 ; Times: 13
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 26
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 5
+	Date: 2018-06-13 ; Times: 16
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-21 ; Times: 23
+	Date: 2018-06-20 ; Times: 10
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "19696" ; Times: 1
+	Query: "recordedby:Breese" ; Times: 3
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "Lebiasina bimaculata" ; Times: 2
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "frog oregon" ; Times: 1
+	Query: "plataplochilus" ; Times: 1
+	Query: "Periophthalmus waltoni" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Gila bicolor" ; Times: 8
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "lebiasina" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "atractosteus tropicus" ; Times: 22
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "cyprinodontiformes order:Cyprinodontiformes hastissue:1" ; Times: 2
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "acipenser nudiventris" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "16262" ; Times: 1
+	Query: "specificepithet:aenigmaticus genus:icosteus institutioncode:OS" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "Vipera" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "vandellia beccarii" ; Times: 1
+	Query: "gbifdatasetid:b8ed9b7c-5b73-4e6d-a6e1-b0911a09f947" ; Times: 2
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Oreochromis schwebischi" ; Times: 1
+	Query: "GDC" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Oreochromis andersonii" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Siphateles bicolor" ; Times: 3
+	Query: "Naso hexacanthus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1169 download events in this period)
+Total number of records downloaded: 90
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+
+
+End of report.
