@@ -1,0 +1,96 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 248
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 25
+	Country: United States ; Times: 24
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-17 ; Times: 7
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-24 ; Times: 8
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-31 ; Times: 7
+	Date: 2019-01-30 ; Times: 16
+	Date: 2019-01-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Garibaldi" ; Times: 1
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "Paraplagusia japonica" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pholis gunnellus mappable:1" ; Times: 2
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "colomesus hastissue:1" ; Times: 7
+	Query: "15285" ; Times: 1
+	Query: "Zapteryx" ; Times: 2
+	Query: "Cottus klamathensis" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "160294" ; Times: 1
+	Query: "raja rhina" ; Times: 3
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "elacatinus horsti" ; Times: 1
+	Query: "rhina" ; Times: 2
+	Query: "18466" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "Agonus cataphractus mappable:1" ; Times: 4
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "rhinobatos granulatus" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 4
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 962 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
