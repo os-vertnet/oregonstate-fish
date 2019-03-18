@@ -1,0 +1,121 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 279
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 49
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-14 ; Times: 4
+	Date: 2019-02-13 ; Times: 9
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 33
+	Date: 2019-02-15 ; Times: 5
+	Date: 2019-02-12 ; Times: 3
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 8
+	Date: 2019-02-01 ; Times: 7
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:7941 institutioncode:OS" ; Times: 2
+	Query: "Lycodes seminudus mappable:1" ; Times: 1
+	Query: "russian federation vntype:specimen" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Auxis rochei mappable:1" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 3
+	Query: "country:&#34;Russian Federation&#34;" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 2
+	Query: "country:(USSR OR Russian Federation)" ; Times: 2
+	Query: "elassodiscus" ; Times: 1
+	Query: "Lampris guttatus" ; Times: 1
+	Query: "Sprattus sprattus mappable:1" ; Times: 1
+	Query: "blepsias institutioncode:OS" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Trachipterus altivelis" ; Times: 1
+	Query: "Paranthias furcifer mappable:1" ; Times: 3
+	Query: "specificepithet:campechanus genus:Lutjanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 3
+	Query: "Ptychocheilus lucius" ; Times: 1
+	Query: "Prochilodus nigricans hastissue:1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "Percina gymnocephala" ; Times: 1
+	Query: "Russian Federation" ; Times: 3
+	Query: "specificepithet:albacares genus:Thunnus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tomeurus" ; Times: 1
+	Query: "Atherinomorus stipes mappable:1" ; Times: 5
+	Query: "Percina gymnocephala stateprovince:&#34;Virginia&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 6
+	Query: "Cypselurus comatus mappable:1" ; Times: 3
+	Query: "institutioncode:OS" ; Times: 1
+	Query: "country:(Russian Federation)" ; Times: 1
+	Query: "Agonus cataphractus mappable:1" ; Times: 2
+	Query: "Microphis brachyurus mappable:1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "Auxis thazard mappable:1" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "country:(U.S.S.R. OR USSR OR Russian Federation)" ; Times: 1
+	Query: "Icelus spatula mappable:1" ; Times: 1
+	Query: "Trachelyopterus galeatus" ; Times: 1
+	Query: "Lumpenus fabricii mappable:1" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 4
+	Query: "country:(Russian Federation OR U.S.S.R)" ; Times: 1
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 8
+	Query: "russian federation" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "catalognumber:2569 institutioncode:OS" ; Times: 1
+	Query: "genus:ictalurus country:&#34;México&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1227 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "Percina gymnocephala stateprovince:&#34;Virginia&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "genus:ictalurus country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:campechanus genus:Lutjanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tomeurus" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
