@@ -1,0 +1,155 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 287
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 20
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 62
+	Country: United States ; Times: 52
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 7
+	Date: 2019-03-25 ; Times: 6
+	Date: 2019-03-08 ; Times: 10
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 27
+	Date: 2019-03-07 ; Times: 26
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-01 ; Times: 9
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-18 ; Times: 8
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-14 ; Times: 13
+	Date: 2019-03-15 ; Times: 4
+	Date: 2019-03-12 ; Times: 9
+	Date: 2019-03-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Puntius sophoroides" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 9
+	Query: "Ribeiro Gonçalves" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "catalognumber:16909 institutioncode:OS" ; Times: 2
+	Query: "catalognumber:4090 institutioncode:OS" ; Times: 1
+	Query: "Lampetra similis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:16908 institutioncode:OS" ; Times: 1
+	Query: "specificepithet:mykiss genus:Oncorhynchus county:&#34;san diego&#34;" ; Times: 1
+	Query: "catalognumber:16779 institutioncode:OS" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 3
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "Auxis rochei rochei mappable:1" ; Times: 2
+	Query: "catalognumber:2859 institutioncode:OS" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;California&#34; recordedby:Smith year &gt;= 1946 year &lt;= 1946 month &gt;= 1 month &lt;= 12" ; Times: 2
+	Query: "15285" ; Times: 1
+	Query: "catalognumber:16780 institutioncode:OS" ; Times: 1
+	Query: "Selene setapinnis mappable:1" ; Times: 3
+	Query: "Paranthias furcifer mappable:1" ; Times: 4
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 7
+	Query: "specificepithet:albacares genus:Thunnus stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "order:Salmoniformes county:&#34;san diego&#34;" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 13
+	Query: "catalognumber:16887 institutioncode:OS" ; Times: 1
+	Query: "catalognumber:2855 institutioncode:OS" ; Times: 1
+	Query: "Entosphenus lethophagus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "osphronemus goramy" ; Times: 1
+	Query: "Bolinichthys pyrsobolus" ; Times: 1
+	Query: "Odontaspis" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "Crenidens" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 1
+	Query: "Malacocephalus occidentalis mappable:1" ; Times: 4
+	Query: "ATRACTOSTEUS TROPICUS" ; Times: 1
+	Query: "catalognumber:2856 institutioncode:OS" ; Times: 1
+	Query: "Atopochilus" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "sebastes elongatus" ; Times: 2
+	Query: "catalognumber:16781 institutioncode:OS" ; Times: 1
+	Query: "Rhizoprionodon porosus mappable:1" ; Times: 2
+	Query: "piaractus mesopotamicus" ; Times: 5
+	Query: "catalognumber:2902 institutioncode:OS" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "abramis brama" ; Times: 1
+	Query: "catalognumber:13717 institutioncode:OS" ; Times: 1
+	Query: "Gymnothorax mordax country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:2858 institutioncode:OS" ; Times: 1
+	Query: "catalognumber:2860 institutioncode:OS" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "catalognumber:16793 institutioncode:OS" ; Times: 1
+	Query: "gymnothorax mordax" ; Times: 6
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 2
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 2
+	Query: "Barbourisia" ; Times: 1
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Rhinobatos lentiginosus" ; Times: 1
+	Query: "specificepithet:oglinum genus:Opisthonema" ; Times: 1
+	Query: "Rondeletia bicolor" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 5
+	Query: "Leptostomias gladiator mappable:1" ; Times: 2
+	Query: "Silurus glanis" ; Times: 1
+	Query: "Sphyraena guachancho mappable:1" ; Times: 2
+	Query: "Lamna ditropis" ; Times: 6
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1281 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ATRACTOSTEUS TROPICUS" ; Times: 1
+	Query: "&#34;morone americana&#34;" ; Times: 1
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 1
+	Query: "cancun" ; Times: 1
+	Query: "Entosphenus lethophagus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gymnothorax mordax country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Acanthemblemaria spinosa" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
