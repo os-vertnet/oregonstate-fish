@@ -1,0 +1,150 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 2039
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 103
+	Country: Venezuela ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 12
+	Date: 2019-07-08 ; Times: 67
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-16 ; Times: 4
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-06 ; Times: 3
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-10 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Schistura " ; Times: 2
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Pellonula specificepithet:vorax" ; Times: 1
+	Query: "genus:Gonostoma specificepithet:atlanticum" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "genus:Chilara" ; Times: 1
+	Query: "torpedo california" ; Times: 1
+	Query: "genus:Cottus specificepithet:greenei" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "vntype:specimen family:cyprinidae stateprovince:&#34;washington&#34; institutioncode:OS" ; Times: 1
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:horsti" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:puncticulatus" ; Times: 1
+	Query: "genus:Scytalina specificepithet:cerdale" ; Times: 1
+	Query: "genus:Pliosteostoma specificepithet:lutipinnis" ; Times: 1
+	Query: "genus:Cottus specificepithet:asperrimus" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 6
+	Query: "vntype:specimen genus:gila stateprovince:&#34;washington&#34; institutioncode:OS" ; Times: 1
+	Query: "scientificname:(Siphateles bicolor OR Gila bicolor OR Algansea bicolor) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cyclothone specificepithet:atraria" ; Times: 1
+	Query: "Raja rhina" ; Times: 5
+	Query: "genus:Chilomycterus specificepithet:antennatus" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Trigonostigma specificepithet:heteromorpha" ; Times: 1
+	Query: "Lamna" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "scientificname:(Rhinichthys osculus klamathensis OR Agosia klamathensis) country:United States mappable:1" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "genus:Pristigaster specificepithet:cayana" ; Times: 1
+	Query: "Raja inornata" ; Times: 1
+	Query: "genus:Gudusia specificepithet:chapra" ; Times: 1
+	Query: "genus:Cottus specificepithet:confusus" ; Times: 1
+	Query: "genus:Taaningichthys specificepithet:bathyphilus" ; Times: 1
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "genus:Henonemus" ; Times: 1
+	Query: "Bathyraja kincaidii" ; Times: 3
+	Query: "scientificname:(Richardsonius balteatus hydrophlox) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:klamathensis" ; Times: 1
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "genus:Cottus specificepithet:perplexus" ; Times: 1
+	Query: "genus:Cottus specificepithet:marginatus" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "genus:Eigenmannia specificepithet:macrops" ; Times: 1
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "Microphis" ; Times: 5
+	Query: "genus:Mallotus specificepithet:villosus" ; Times: 1
+	Query: "genus:Neoopisthopterus specificepithet:tropicus" ; Times: 1
+	Query: "genus:Parauchenoglanis" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:starksi" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "genus:Cottus specificepithet:extensus" ; Times: 1
+	Query: "genus:Cottus specificepithet:tenuis" ; Times: 1
+	Query: "genus:Cottus specificepithet:hubbsi" ; Times: 1
+	Query: "Bathyraja spinosissima" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "genus:Cottus specificepithet:pitensis" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 1
+	Query: "genus:Cottus specificepithet:beldingii" ; Times: 1
+	Query: "genus:Leuroglossus specificepithet:stilbius" ; Times: 1
+	Query: "Oxyeleotris marmorata" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "genus:Allosmerus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Diplotaxodon" ; Times: 1
+	Query: "Raja binoculata" ; Times: 2
+	Query: "genus:Cottus specificepithet:leiopomus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "genus:Cottus specificepithet:princeps" ; Times: 1
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Anchovia specificepithet:macrolepidota" ; Times: 1
+	Query: "genus:Etheostoma specificepithet:maculatum" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "genus:Hypoptopoma specificepithet:thoracatum" ; Times: 1
+	Query: "genus:Tarletonbeania specificepithet:crenularis" ; Times: 1
+	Query: "Bathyraja trachura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 985 download events in this period)
+Total number of records downloaded: 61
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "class:Actinopterygii country:&#34;colombia&#34;" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+
+
+End of report.
