@@ -1,0 +1,134 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 320
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 8
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 40
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: United States ; Times: 22
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-08 ; Times: 10
+	Date: 2019-08-03 ; Times: 2
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 41
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-07 ; Times: 5
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 8
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-19 ; Times: 3
+	Date: 2019-08-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Schistura " ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 2
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 1
+	Query: "Hemiodontichthys acipenserinus" ; Times: 1
+	Query: "Platydoras armatulus" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 2
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Pimelodus blochii" ; Times: 2
+	Query: "Geotria" ; Times: 1
+	Query: "Pellona flavipinnis" ; Times: 1
+	Query: "genus:rhinogobius" ; Times: 1
+	Query: "Pinirampus pirinampu" ; Times: 1
+	Query: "Sorubim lima" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "genus:Ulcina specificepithet:olrikii" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 3
+	Query: "Mystus cavasius" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 1
+	Query: "Sphyrna media" ; Times: 1
+	Query: "Pseudomystus siamensis" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Planiloricaria cryptodon" ; Times: 1
+	Query: "Loricaria cataphracta" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "Heteropneustes fossilis" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 3
+	Query: "Synbranchus marmoratus" ; Times: 2
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "Doras carinatus" ; Times: 1
+	Query: "Sturisoma nigrirostrum" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 1
+	Query: "schindleria" ; Times: 1
+	Query: "Hemiodus gracilis" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "Piaractus brachypomus" ; Times: 2
+	Query: "Dama dama" ; Times: 1
+	Query: "Piaractus mesopotamicus" ; Times: 6
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Lactophrys bicaudalis" ; Times: 2
+	Query: "Leptodoras linnelli" ; Times: 1
+	Query: "Hypophthalmus edentatus" ; Times: 2
+	Query: "Chrysichthys nigrodigitatus" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "Limatulichthys griseus" ; Times: 1
+	Query: "family:Catostomidae county:&#34;Nevada&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pterodoras granulosus" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "Hypselecara temporalis" ; Times: 1
+	Query: "mesopotamicus" ; Times: 1
+	Query: "genus:Bathylagus specificepithet:milleri" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "Loricariichthys microdon" ; Times: 1
+	Query: "tinamou" ; Times: 1
+	Query: "Myleus schomburgkii" ; Times: 1
+	Query: "Tetragonopterus chalceus" ; Times: 1
+	Query: "Kryptopterus bicirrhis" ; Times: 1
+	Query: "Trachelyopterus galeatus" ; Times: 1
+	Query: "Nostoc" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Symphysodon discus" ; Times: 1
+	Query: "Hemisorubim platyrhynchos" ; Times: 1
+	Query: "genus:Gilbertidia specificepithet:sigalutes" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 2
+	Query: "genus:Taenioides country:&#34;Philippines&#34;" ; Times: 1
+	Query: "18903" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1034 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mulloidichthys martinicus" ; Times: 2
+
+
+End of report.
