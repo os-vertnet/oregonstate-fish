@@ -1,0 +1,164 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 767
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 8
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 11
+	Country: Belgium ; Times: 10
+	Country: New Zealand ; Times: 109
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 61
+	Date: 2019-10-22 ; Times: 3
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 59
+	Date: 2019-10-16 ; Times: 11
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 6
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 4
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-07 ; Times: 11
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "10109" ; Times: 1
+	Query: "Etmopterus princeps" ; Times: 2
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "Raja clavata" ; Times: 2
+	Query: "Vimba vimba" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Bathyraja maculata" ; Times: 1
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Bathyraja parmifera" ; Times: 2
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "amarus Rhodeus" ; Times: 1
+	Query: "Siphateles bicolor" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Raja rhina" ; Times: 2
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "Empetrichthys Latos pahrump" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "cape disappointment" ; Times: 1
+	Query: "Raja inornata" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Lamna ditropis" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "Echinorhinus cookei" ; Times: 1
+	Query: "Sander lucioperca" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 2
+	Query: "11893" ; Times: 3
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Squalius cephalus" ; Times: 1
+	Query: "Mustelus higmani" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "Mustelus californicus" ; Times: 2
+	Query: "Narcine entemedor" ; Times: 2
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "Mola mola mappable:0" ; Times: 10
+	Query: "Bathyraja interrupta" ; Times: 2
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Leptostomias" ; Times: 1
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "Paramonacanthus pusillus mappable:1" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "Bathyraja spinosissima" ; Times: 1
+	Query: "Raja stellulata" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "17684" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 2
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "Empetrichthys pahrump" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "Scyliorhinus canicula" ; Times: 2
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "sebastes diaconus" ; Times: 1
+	Query: "asper Cottus" ; Times: 4
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Chiloscyllium griseum" ; Times: 2
+	Query: "Bathyraja lindbergi" ; Times: 1
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Sphyrna tiburo" ; Times: 3
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "19803" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "diplophos" ; Times: 1
+	Query: "Leptostomias gladiator" ; Times: 1
+	Query: "Narke dipterygia" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "frable" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "Sphyrna media" ; Times: 2
+	Query: "Squatina californica" ; Times: 2
+	Query: "Bathyraja trachura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1308 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gobius" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+
+
+End of report.
