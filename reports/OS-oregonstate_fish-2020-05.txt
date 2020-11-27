@@ -1,0 +1,99 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 73
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 35
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-02 ; Times: 8
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 6
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "country:&#34;Russian Federation&#34;" ; Times: 2
+	Query: "(moffett)" ; Times: 1
+	Query: "crenichthys nevadae" ; Times: 1
+	Query: "gyrinomimus myersi" ; Times: 1
+	Query: "county:&#34;Panama&#34;" ; Times: 2
+	Query: "pachynema" ; Times: 1
+	Query: "echiichthys vipera" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "Gymnothorax mordax" ; Times: 1
+	Query: "Melamphaes suborbitalis" ; Times: 5
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "18482" ; Times: 1
+	Query: "catalognumber:19400 institutioncode:OS" ; Times: 3
+	Query: "coregonus lavaretus" ; Times: 1
+	Query: "catalognumber:19399 institutioncode:OS" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "gymnothorax mordax" ; Times: 2
+	Query: "Barbus jae" ; Times: 2
+	Query: "Hyporhamphus gilli" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "Cyema atrum" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "(rhinogobius) year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:(Etheostoma zonistium) country:United States mappable:1" ; Times: 1
+	Query: "esomus metallicus" ; Times: 1
+	Query: "(rhinogobius) year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "clidoderma asperrimum" ; Times: 2
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1106 download events in this period)
+Total number of records downloaded: 1501
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Catostomus" ; Times: 1
+	Query: "county:&#34;Panama&#34;" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+
+
+End of report.
