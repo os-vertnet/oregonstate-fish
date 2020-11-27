@@ -1,0 +1,132 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 991
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 46
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-04 ; Times: 11
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-03 ; Times: 15
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-14 ; Times: 8
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-05 ; Times: 6
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "Opaeophacus" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Cataetyx" ; Times: 3
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "clarkii Catostomus" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "scientificname:(Siphateles bicolor OR Gila bicolor OR Algansea bicolor) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "14245" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "scientificname:Upeneus vittatus mappable:1" ; Times: 1
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Rhinichthys osculus klamathensis OR Agosia klamathensis) country:United States mappable:1" ; Times: 1
+	Query: "neoopisthopterus tropicus" ; Times: 1
+	Query: "scientificname:Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Liparis fucensis" ; Times: 1
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Tikasingh" ; Times: 2
+	Query: "Upeneus vittatus mappable:1" ; Times: 1
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "molidae" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 1
+	Query: "Eucinostomus jonesii mappable:1" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "Cottus gobio" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "rhinogobius" ; Times: 8
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "institutioncode:OS" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; institutioncode:OS" ; Times: 1
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 3
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus hydrophlox) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "Crystallichthys cyclospilus" ; Times: 2
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "GDC" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "15969" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1023 download events in this period)
+Total number of records downloaded: 315
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: South Africa ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 2
+	Country: Guyana ; Times: 1
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "guyana" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+
+
+End of report.
