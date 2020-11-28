@@ -1,0 +1,173 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 729
+Number of records retrieved in searches: 7057
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 695
+	Country: Peru ; Times: 7
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-18 ; Times: 1
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-09 ; Times: 9
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-15 ; Times: 117
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-10 ; Times: 232
+	Date: 2020-06-11 ; Times: 231
+	Date: 2020-06-17 ; Times: 116
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Cottus beldingii" ; Times: 6
+	Query: "Gudusia chapra" ; Times: 1
+	Query: "Stenodus leucichthys" ; Times: 6
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Pampus chinensis" ; Times: 6
+	Query: "Capoeta capoeta" ; Times: 6
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "Labeo calbasu" ; Times: 6
+	Query: "Pliosteostoma lutipinnis" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "paranthias furcifer" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 6
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "Crossocheilus oblongus" ; Times: 6
+	Query: "Oreochromis macrochir" ; Times: 6
+	Query: "Chrysichthys nigrodigitatus" ; Times: 6
+	Query: "Coregonus sardinella" ; Times: 6
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "Pangio anguillaris" ; Times: 6
+	Query: "periophthalmodon schlosseri" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Arius venosus" ; Times: 6
+	Query: "Abramis brama" ; Times: 6
+	Query: "Dermogenys pusilla" ; Times: 6
+	Query: "Doryichthys boaja" ; Times: 6
+	Query: "Plotosus canius" ; Times: 6
+	Query: "Osphronemus goramy" ; Times: 6
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "lampetra planeri" ; Times: 1
+	Query: "Cirrhinus cirrhosus" ; Times: 6
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "Thryssa dussumieri" ; Times: 6
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Microglanis poecilus" ; Times: 4
+	Query: "Channa striata" ; Times: 12
+	Query: "Trigonostigma heteromorpha" ; Times: 6
+	Query: "Pomatoschistus minutus" ; Times: 6
+	Query: "vntype:specimen (batrachoididae) hastissue:1" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 12
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "Xenentodon cancila" ; Times: 12
+	Query: "Osteogeneiosus militaris" ; Times: 3
+	Query: "sicyases sanguineus" ; Times: 1
+	Query: "Sardinella fimbriata" ; Times: 6
+	Query: "Nemipterus bipunctatus" ; Times: 3
+	Query: "Alepes kleinii" ; Times: 9
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Paramonacanthus pusillus" ; Times: 6
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Ilisha melastoma" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Trinectes fluviatilis" ; Times: 1
+	Query: "family:batrachoididae hastissue:1" ; Times: 3
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "Salmo obtusirostris" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Pellonula vorax" ; Times: 1
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "Barbonymus schwanenfeldii" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "Trichopsis vittata" ; Times: 12
+	Query: "Neoopisthopterus tropicus" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "Crenicichla inpa" ; Times: 2
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "Cyclocheilichthys apogon" ; Times: 12
+	Query: "Squalidus gracilis" ; Times: 6
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Heteropneustes fossilis" ; Times: 6
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "Esomus metallicus" ; Times: 6
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "Coptodon zillii" ; Times: 6
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Netuma thalassina" ; Times: 12
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Glossogobius giuris" ; Times: 6
+	Query: "Comephorus dybowskii" ; Times: 6
+	Query: "Diplotaxodon limnothrissa" ; Times: 6
+	Query: "Clarias macrocephalus" ; Times: 12
+	Query: "Cottus perplexus" ; Times: 6
+	Query: "Cheilopogon heterurus" ; Times: 6
+	Query: "otolithes ruber" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "Coregonus lavaretus" ; Times: 6
+	Query: "Piaractus mesopotamicus" ; Times: 6
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "Colossoma macropomum" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Eleotris fusca" ; Times: 6
+	Query: "Pomatoschistus microps" ; Times: 6
+	Query: "Cottus asper" ; Times: 6
+	Query: "Clupea harengus" ; Times: 11
+	Query: "Barbonymus gonionotus" ; Times: 12
+	Query: "gymnothorax mordax" ; Times: 1
+	Query: "Parachela siamensis" ; Times: 3
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Squalius cephalus" ; Times: 12
+	Query: "Pseudomystus siamensis" ; Times: 6
+	Query: "Harpadon nehereus" ; Times: 6
+	Query: "rhynchorhamphus georgii" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Salmo trutta" ; Times: 9
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Yasuhikotakia modesta" ; Times: 12
+	Query: "Oreochromis andersonii" ; Times: 6
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 474 download events in this period)
+Total number of records downloaded: 182
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "oncorhynchus kisutch" ; Times: 1
+
+
+End of report.
