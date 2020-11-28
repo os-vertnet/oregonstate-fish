@@ -1,0 +1,132 @@
+Report for Institution Code OS, Resource oregonstate_fish
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 209
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 73
+	Country: United States ; Times: 17
+	Country: Sweden ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 66
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 3
+	Query: "Oxyporhamphus micropterus micropterus mappable:1" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 2
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "USNM 6351" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "eglanteria" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 3
+	Query: "Selene setapinnis mappable:1" ; Times: 1
+	Query: "Paranthias furcifer mappable:1" ; Times: 2
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "Malacocephalus occidentalis mappable:1" ; Times: 1
+	Query: "Serranochromis" ; Times: 1
+	Query: "Sphyrna tiburo mappable:1" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 1
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Anchoviella perfasciata" ; Times: 1
+	Query: "(abernathy)" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 1
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 1
+	Query: "genus:Hypophthalmus" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 2
+	Query: "Hypophthalmus" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "Ventrifossa macropogon mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 2
+	Query: "Eucinostomus jonesii mappable:1" ; Times: 3
+	Query: "Coryphaena equiselis mappable:1" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "Cheilopogon heterurus mappable:1" ; Times: 1
+	Query: "Myctophum affine mappable:1" ; Times: 1
+	Query: "Rhizoprionodon porosus mappable:1" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "james bond" ; Times: 3
+	Query: "Cypselurus comatus mappable:1" ; Times: 1
+	Query: "James Bond" ; Times: 2
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 2
+	Query: "Ophichthus gomesii mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Rondeletia bicolor mappable:1" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 2
+	Query: "Eucinostomus gula mappable:1" ; Times: 3
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "Carcharhinus brevipinna mappable:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 2
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Dama dama" ; Times: 2
+	Query: "Haemulon sciurus mappable:1" ; Times: 2
+	Query: "Alectis ciliaris mappable:1" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Leptostomias gladiator mappable:1" ; Times: 1
+	Query: "Alopias" ; Times: 2
+	Query: "Atherinomorus stipes mappable:1" ; Times: 1
+	Query: "Lepidomeda vittata" ; Times: 1
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "Liza vaigiensis" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 940 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Hypophthalmus" ; Times: 1
+
+
+End of report.
